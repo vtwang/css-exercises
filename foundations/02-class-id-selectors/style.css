@@ -3,7 +3,7 @@
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
-.third {
+.adjust-font-size{
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #fourth {
     background-color: rgb(171, 233, 171);
-    font-size: 24px;
     font-weight: bold;
 }
